@@ -1,0 +1,30 @@
+[
+    {
+        "userId":"1",
+        "username":"jhonKing",
+        "password":"(A11ora)",
+        "name": "Jhon McKing",
+        "email": "jhon.king@mail.com"
+    },
+    {
+        "userId":"2",
+        "username":"mark_il_bello",
+        "password":"_1aBcD1_",
+        "name": "Mark Sloan",
+        "email": "mark.sloan@mail.com"
+    },
+    {
+        "userId":"3",
+        "username":"mcDreamy",
+        "password":"N3ur0_4eveR",
+        "name": "Derek Sheperd",
+        "email": "derek.sheperd@mail.com"
+    },
+    {
+        "userId":"4",
+        "username":"depre",
+        "password":"*Tr1stezz4",
+        "name": "Meredith Grey",
+        "email": "meredith.grey@mail.com"
+    }
+]
